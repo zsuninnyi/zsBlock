@@ -25,7 +25,4 @@ class Block {
     }
 }
 
-// const block1 = new Block({ timestamp: new Date(), lastHash: 'lastHast', hash: 'hash', data: 'data' });
-// console.log('block1: ', block1);
-
 module.exports = Block;
